@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    max-width: 150px;
+    height: 150px;
+    position:relative;
+    top: 100px;
+    left: 30px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+
+#tarjeta{
+    width: 700px;
+    height: 600px;
+    border: 2px solid rgb(150, 150, 150);
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.descripcion {
+    background-color: white;
+    position:relative;
+    top: 70px;
+    left: 30px;  
+}
+.descripcion h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(83, 83, 83)
+}
+.descripcion h4{
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(83, 83, 83);
+}
+.descripcion p {
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(83, 83, 83);
+}
+
+.banner{
+    background-color: pink;
+    height: 200px;
+    position: relative;
+}
+
+.descripcion button{
+    background-color: #f9f7fd;
+    color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
